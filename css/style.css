@@ -1,0 +1,13 @@
+@media screen and (max-width: 640px){
+    body{
+        background-color : yellow;
+    }
+}
+
+#welcome-section{
+    height: 100vh;
+}
+#navbar{
+    position: sticky;
+    top: 0px;
+}
